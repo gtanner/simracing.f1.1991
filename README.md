@@ -29,6 +29,17 @@ I owe everything to these amazing creaters and please show your support to the c
 - Select the Downloaded zip file
 - Enjoy!
 
+# Race Grids
+
+Included in this package are the grid for each of the rounds of the 1991
+F1 season.
+
+Please drop the `.cmpreset` files into your Content Manager folder.
+
+```
+C:\Users\${YOUR_USER_HERE}\AppData\Local\AcTools Content Manager
+```
+
 # Included Cars
 
 - Jordan 191 – 1991 – v1.05 https://www.asrformula.com/mods/assetto-corsa/free-cars-ac/jordan-191-1991-ac/
